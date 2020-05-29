@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Page reload
+// @name         Monkey reload
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Reloads the page its working on every 10 minutes to prevent log-out
+// @description  Reloads a page it on every X minutes to prevent automatic logout. 
 // @author       Cvet Georgiev
 // @match        https://outlook.office.com/calendar/view/workweek
 // @match        https://www.office.com/?auth=2
